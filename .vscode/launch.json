@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "aws-sam",
+            "request": "direct-invoke",
+            "name": "src:ClientsAPI::ClientsAPI.Controllers.ClientController::Get (dotnetcore3.1)",
+            "invokeTarget": {
+                "target": "code",
+                "projectRoot": "src/ClientsAPI",
+                "lambdaHandler": "ClientsAPI::ClientsAPI.Controllers.ClientController::Get"
+            },
+            "lambda": {
+                "runtime": "dotnetcore3.1",
+                "payload": {},
+                "environmentVariables": {}
+            }
+        }
+    ]
+}

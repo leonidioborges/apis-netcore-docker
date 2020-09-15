@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+6gqrgEHJ/S39DvXlMRLhv4DGwmWDu30WFWLzatgcmYt9LtiG2pA2eh1DB0cChto5ueHooIJafZhRim115mAA==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\github\\apis-netcore-docker\\src\\ClientsAPI\\ClientsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leonidio\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
