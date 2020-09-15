@@ -1,2 +1,2 @@
-# Repository for studies .NETcore API DynamoDB - DOCKER 
+# Repositório Estudos .NETcore API DynamoDB - DOCKER 
 
